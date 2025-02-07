@@ -11,10 +11,6 @@ My nickname is Blixyk, and I'm a student interested in all kind of things around
 - [Dozby's YouTube Channel](https://www.youtube.com/@Dozby)
 - Discord: ent3i
 
---> If you ask, why I use sometimes different random nicknames.. There are two main reasons: 
-1. The name/nickname was already taken.
-2. I worked on/learned something without others knowing what I exactly do in my freetime.   
-
 <details>
   <summary>Why do I use different nicknames?</summary>
 
