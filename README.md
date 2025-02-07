@@ -12,8 +12,8 @@ My nickname is Blixyk, and I'm a student interested in all kind of things around
 - Discord: ent3i
 
 --> If you ask, why I use sometimes different random nicknames.. There are two main reasons: 
-  - The name/nickname was already taken.
-  - I worked on/learned something without others knowing what I exactly do in my freetime.   
+1. The name/nickname was already taken.
+2. I worked on/learned something without others knowing what I exactly do in my freetime.   
 
 <!--
 **blixyk/blixyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
