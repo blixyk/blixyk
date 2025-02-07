@@ -27,6 +27,8 @@ My nickname is Blixyk, and I'm a student interested in all kind of things around
 Notes:
 Use this place to add many links on my projects I made etc.
 Add link on something visual (project), you can play around with
+- What (name and description), Why (Did you ever have blabla...) How (how to use/setup) 
+- Use images
 
 Here are some ideas to get you started:
 
