@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   <img align="left" alt="AE" width="30px" style="padding-right: 10px;" src="" />
   </p>
 </details>  
-
+<p></p>
 <details> 
   <summary><h3>📊 Stats and Activity</h3></summary>
 
