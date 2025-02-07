@@ -10,7 +10,7 @@
 - [Dozby's YouTube Channel](https://www.youtube.com/@Dozby)
 - Discord: ent3i
 
---> If you ask, why I use sometimes different random nicknames.. There are two main reasons. 
+--> If you ask, why I use sometimes different random nicknames.. There are two main reasons: 
 1. The name/nickname was already taken.
 2. I like to work on/learn something without others knowing. 
 
