@@ -4,7 +4,7 @@
 **blixyk@pc:~$** cat read-me.txt  
 My nickname is Blixyk, and I'm a student interested in all kind of things around computers and technology!
 - 🔭 I’m currently working on improving my programming, math and graphics design skills
-- 🌱 I’m currently learning mainly C 
+- 🌱 I recently   
 - 📫 How to reach me: ...
 
 **blixyk@pc:~$** cat my-public-profiles.txt
@@ -12,8 +12,8 @@ My nickname is Blixyk, and I'm a student interested in all kind of things around
 - Discord: ent3i
 
 --> If you ask, why I use sometimes different random nicknames.. There are two main reasons: 
-1. The name/nickname was already taken.
-2. I worked on/learned something without others knowing what I exactly do in my freetime.   
+  - The name/nickname was already taken.
+  - I worked on/learned something without others knowing what I exactly do in my freetime.   
 
 <!--
 **blixyk/blixyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
