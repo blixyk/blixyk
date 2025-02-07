@@ -7,7 +7,8 @@ My nickname is Blixyk, and I'm a student interested in all kind of things around
 - 🌱 I recently made this github profile, check it out [here](https://github.com/blixyk)
   - Yup, doesn't make sense to be here (My portfolio is in progress)
 - Note for me: Read my hidden notes to update portfolio
-- Learning C, After Effects, Photoshop, and Digital Design | Occasionally Drawing 🎨  
+- Learning C, After Effects, Photoshop, and Digital Design | Occasionally Drawing 🎨
+    
 **blixyk@pc:~$** cat my-public-profiles.txt
 - [Dozby's YouTube Channel](https://www.youtube.com/@Dozby)
 - Discord: ent3i
