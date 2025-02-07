@@ -1,10 +1,14 @@
 ## Hi there 👋
 
 
-**blixyk@pc:~$** cat readme.txt
+**blixyk@pc:~$** cat read-me.txt
 - 🔭 I’m currently working on improving my programming, math and graphics design skills
 - 🌱 I’m currently learning mainly C 
 - 📫 How to reach me: ...
+
+**blixyk@pc:~$** cat my-public-profiles.txt
+- [Dozby's YouTube Channel](https://www.youtube.com/@Dozby)
+- [Discord] ent3i
 
 <!--
 **blixyk/blixyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
