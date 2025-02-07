@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**blixyk@pc:~$** cat read-me.txt\n
+**blixyk@pc:~$** cat read-me.txt  
 My nickname is Blixyk, and I'm a student interested in all kind of things around computers and technology.
 - 🔭 I’m currently working on improving my programming, math and graphics design skills
 - 🌱 I’m currently learning mainly C 
