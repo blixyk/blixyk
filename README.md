@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 
 **blixyk@pc:~$** cat read-me.txt  
