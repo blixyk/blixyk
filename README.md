@@ -17,7 +17,7 @@ My nickname is Blixyk, and I'm a student interested in all kind of things around
   <summary>Why do I use different nicknames?</summary>
 
   1. The name/nickname was already taken.  
-  2. I worked on/learned something without others knowing what I exactly do in my free time.  
+  2. I wanted to work on/learn something without others knowing what I exactly do in my free time.  
 </details>
 
 
