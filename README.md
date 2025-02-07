@@ -6,7 +6,7 @@ My nickname is Blixyk, and I'm a student interested in all kind of things around
 - 🔭 I’m currently working on improving my programming, math and graphics design skills
 - 🌱 I recently made this github profile, check it out [here](https://github.com/blixyk)
   - Yup, doesn't make sense to be here (My portfolio is in progress)
-- Note for me: Use this place to add many links on my projects I made etc. 
+- Note for me: Read my hidden notes to update portfolio
 
 **blixyk@pc:~$** cat my-public-profiles.txt
 - [Dozby's YouTube Channel](https://www.youtube.com/@Dozby)
@@ -22,6 +22,10 @@ My nickname is Blixyk, and I'm a student interested in all kind of things around
 
 <!--
 **blixyk/blixyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Notes:
+Use this place to add many links on my projects I made etc.
+Add link on something visual (project), you can play around with
 
 Here are some ideas to get you started:
 
