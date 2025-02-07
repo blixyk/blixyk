@@ -10,7 +10,7 @@ My nickname is Blixyk, and I'm a student interested in all kind of things around
 - Now -> Learning C, After Effects, Photoshop, and Digital Design | Occasionally Drawing ✍️ and Running 🏃
 - To improve in drawing I spent 100 hours of learning how to draw and filmed my whole process > [Drawing Video](https://www.youtube.com/watch?v=x6eIgAk8YMs&t=1s)
 
-  - When I was editing the video I made my own [scripts](https:)
+  - When I was editing the video I made my own [scripts](https:) to speed up the process
 - I'm mostly self-taught in the skills I have and I'm still open to learning new things.  
     
 **blixyk@pc:~$** cat my-public-profiles.txt
