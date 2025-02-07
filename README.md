@@ -12,7 +12,7 @@ My nickname is Blixyk, and I'm a student interested in all kind of things around
 
   - When I was editing the video I made my own [scripts](https:) to speed up the process
 - I'm mostly self-taught in the skills I have and I'm still open to learning new things.  
-    
+
 **blixyk@pc:~$** cat my-public-profiles.txt
 - [Dozby's YouTube Channel](https://www.youtube.com/@Dozby)
 - Discord: ent3i
@@ -66,3 +66,9 @@ Here are some ideas to get you started:
   <img align="left" alt="AE" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="left" alt="AE" width="28px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 </p>
+
+**blixyk@pc:~$** cat to-do-list.txt  
+
+- Finish all Advent of Code puzzles from 2015 until 2024 []
+- Spend every single day 1-2 hours of doing SCIO and get to FIT []
+- Make own basic interactive website using React []
