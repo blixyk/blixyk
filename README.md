@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-blixyk-pc:~$ cat readme.txt
+**blixyk-pc:~$** cat readme.txt
 - 🔭 I’m currently working on improving my programming, math and graphics design skills
 - 🌱 I’m currently learning mainly C 
 - 📫 How to reach me: ...
