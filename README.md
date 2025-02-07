@@ -4,7 +4,7 @@
 **blixyk@pc:~$** cat read-me.txt  
 My nickname is Blixyk, and I'm a student interested in all kind of things around computers and technology!
 - 🔭 I’m currently working on improving my programming, math and graphics design skills
-- 🌱 I recently made this github, check it out [here](https://github.com/blixyk)
+- 🌱 I recently made this github profile, check it out [here](https://github.com/blixyk)
   - Yup, doesn't make sense to be here (My portfolio is in progress)
 - Note for me: Use this place to add many links on my projects I made etc. 
 
