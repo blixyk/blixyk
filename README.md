@@ -6,7 +6,7 @@ My nickname is Blixyk, and I'm a student interested in all kind of things around
 - ⚡️ I’m currently working on improving my programming, math and graphics design skills
 - 🌱 I recently made this github profile, check it out [here](https://github.com/blixyk)
   - Yup, doesn't make sense to be here (My portfolio is in progress)
-- Note for me: Read my hidden notes to update portfolio
+- Note for me: Read my "hidden" notes to update portfolio
 - Now -> Learning C, After Effects, Photoshop, and Digital Design | Occasionally Drawing ✍️ and Running 🏃
 - To improve in drawing I spent 100 hours of learning how to draw and filmed my whole process > [Drawing Video](https://www.youtube.com/watch?v=x6eIgAk8YMs&t=1s)
 
@@ -42,8 +42,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 #
