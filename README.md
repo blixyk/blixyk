@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <br>
 
 #
-<h4>blixyk@pc:~$</h4>cat to-do-list.txt  
+**blixyk@pc:~$** cat to-do-list.txt 
 
 <!--
 **blixyk@pc:~$** cat to-do-list.txt
