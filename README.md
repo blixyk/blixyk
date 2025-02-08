@@ -68,8 +68,7 @@ Here are some ideas to get you started:
   <img alt="AE" width="28px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 </p>     
 <br align="left" style="padding-right: 10px;">
-  
-**blixyk@pc:~$** cat to-do-list.txt   
+   
 
 - Finish all Advent of Code puzzles from 2015 until 2024 [] Progress --> 0/225
 - Spend every single day 1-2 hours of doing SCIO and get to FIT []
