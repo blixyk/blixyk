@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 </p>     
 
 <br>
-<summary><h4> # </h4></summary>
+
 <p></p>
 
 
