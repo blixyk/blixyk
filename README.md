@@ -66,7 +66,9 @@ Here are some ideas to get you started:
   <img align="left" alt="AE" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="left" alt="AE" width="28px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 </p>   
-  
+
+<br>
+
 **blixyk@pc:~$** cat to-do-list.txt  
 
 - Finish all Advent of Code puzzles from 2015 until 2024 [] Progress --> 0/225
