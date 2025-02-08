@@ -68,9 +68,9 @@ Here are some ideas to get you started:
 </p>       
 
 #
-<div style="clear: both;"></div>
 
 <summary><h4>blixyk@pc:~$</h4> cat to-do-list.txt</summary>
+<br clear="left"/>
 <p>
   -djfajadaf
 </p>
