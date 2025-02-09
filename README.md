@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 **blixyk@pc:~$** cat to-do-list.txt
 -->
   
-- Finish all Advent of Code puzzles from 2015 until 2024 [] Progress --> 1/225
+- Finish all Advent of Code puzzles from 2015 until 2024 [] Progress --> 2/225
 - Spend every single day 1-2 hours of doing SCIO and get to FIT []
 - Make my own basic interactive website using React and link it to GitHub []
 - Learn VIM []
