@@ -80,5 +80,5 @@ From 10.2.2025 until 30.5.2025
 - Practice math at least 1 hour a day and ace in it on exams. [] Day --> 0/78
 - Make my own basic interactive website using React and link it to GitHub []
 - Learn VIM and use it regularly []
-- Run every second day 10km []
+- Run every second day 10km []  
 These are things I choose to do in my what we call "free time".  
