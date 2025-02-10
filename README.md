@@ -81,5 +81,4 @@ From 10.2.2025 until 30.5.2025
 - Make my own basic interactive website using React and link it to GitHub []
 - Learn VIM and use it regularly []
 - Run every second day 10km []
-- <details><summary>I share just something I do,but not everything...</summary></details>  
 These are things I choose to do in my what we call "free time".  
