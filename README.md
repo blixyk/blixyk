@@ -73,8 +73,12 @@ Here are some ideas to get you started:
 <!--
 **blixyk@pc:~$** cat to-do-list.txt
 -->
-  
+
+From 2.2.2025 until 30.5.2025
 - Finish all Advent of Code puzzles from 2015 until 2024 [] Progress --> 2/225
-- Spend every single day 1-2 hours of doing SCIO and get to FIT []
+- Spend every single day 1-2 hours of doing SCIO and get to FIT [] Day --> 0/95
+- Practice math at least 1 hour a day and ace in it on exams. [] Day --> 0/78
 - Make my own basic interactive website using React and link it to GitHub []
-- Learn VIM []
+- Learn VIM and use it regularly []
+- Run every second day 10km []
+These are things I choose to do in my what we call "free time".  
