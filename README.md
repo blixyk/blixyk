@@ -77,8 +77,8 @@ Here are some ideas to get you started:
 
 From 11.2.2025 until 30.5.2025
 - Finish all Advent of Code puzzles from 2015 until 2024 [] Progress --> 3/225
-- Spend every single day 1-2 hours of doing SCIO and get to FIT [] Day --> 0/94
-- Practice math at least 1 hour a day and ace in it on exams. [] Day --> 0/76
+- Spend every single day 1-2 hours of doing SCIO and get to FIT []
+- Practice math at least 1 hour a day and ace in it on exams. []
 - Make my own basic interactive website using React and link it to GitHub []
 - Learn VIM and use it regularly []
 - Run every second day 10km []  
