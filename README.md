@@ -7,9 +7,7 @@ My nickname is Blixyk, and I'm a student interested in all kind of things around
 - 🌱 I recently made this github profile, check it out [here](https://github.com/blixyk)
   - Yup, doesn't make sense to be here (My portfolio is in progress)
 - Now -> Learning C, After Effects, Photoshop, and Digital Design | Occasionally Drawing ✍️ and Running 🏃
-- To improve in drawing I spent 100 hours of learning how to draw and filmed my whole process > <a href="https://www.youtube.com/watch?v=x6eIgAk8YMs&t=1s" target="_blank" rel="noopener noreferrer">Drawing Video</a>
-
-
+- To improve in drawing I spent 100 hours of learning how to draw and filmed my whole process > [Drawing Video](https://www.youtube.com/watch?v=x6eIgAk8YMs&t=1s)
   - When I was editing the video I made my own [scripts](https:) to speed up the process
 - I'm mostly self-taught in the skills I have and I'm still open to learning new things.
 - 🇨🇿 Czech - Native language; 🇬🇧 English - I have FCE (B2) Cambridge Certificate
