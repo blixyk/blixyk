@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 From 11.2.2025 until 30.5.2025
 - Finish all Advent of Code puzzles from 2015 until 2024 [] Progress --> 3/225
   - Side project: [MD5-hash_function](https://github.com/blixyk/MD5-hash_function)
-- Spend every single day 1-2 hours of doing SCIO and get to FIT []
+- Spend every single day at least one hour of doing SCIO and get to FIT []
 - Practice math at least 1 hour a day and ace in it on exams. []
 - Make my own basic interactive website using React and link it to GitHub []
 - Learn VIM and use it regularly []
