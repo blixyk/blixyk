@@ -1,17 +1,10 @@
 ## Hi there 👋
 
 
-**blixyk@pc:~$** cat read-me.txt  
-My nickname is Blixyk, and I'm a student interested in all kind of things around computers and technology!
-- ⚡️ I’m currently working on improving my programming, math and graphics design skills
-- 🌱 I recently made this github profile, check it out [here](https://github.com/blixyk)
-  - Yup, doesn't make sense to be here (My portfolio is in progress)
-- Now -> Learning C, After Effects, Photoshop, and Digital Design | Occasionally Drawing ✍️ and Running 🏃
-- To improve in drawing I spent 100 hours of learning how to draw and filmed my whole process > [Drawing Video](https://www.youtube.com/watch?v=x6eIgAk8YMs&t=1s)
-  - When I was editing the video I made my own [scripts](https:) to speed up the process
+**blixyk@pc:~$** cat read-me.txt
 - I'm mostly self-taught in the skills I have and I'm still open to learning new things.
 - 🇨🇿 Czech - Native language; 🇬🇧 English - I have FCE (B2) Cambridge Certificate
-  - English -> Strong reading and listening skills, competent writing abilities, and speaking skills, depending on frequency of use. 
+  - English -> Strong reading and listening skills, competent writing abilities, and speaking skills, depending on frequency of use.
 
 **blixyk@pc:~$** cat my-public-profiles.txt
 - [Dozby's YouTube Channel](https://www.youtube.com/@Dozby)
