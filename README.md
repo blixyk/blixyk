@@ -10,7 +10,7 @@
   <summary>Why do I use different nicknames?</summary>
 
   1. The name/nickname was already taken.  
-  2. I wanted to do/learn something without others knowing what I exactly do in my free time.  
+  2. I wanted to do/learn/create something without others knowing what I exactly do in my free time.  
 </details>
 
 
