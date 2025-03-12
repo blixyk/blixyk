@@ -57,8 +57,3 @@ Here are some ideas to get you started:
 <br>
 
 #
-**blixyk@pc:~$** cat to-do-list.txt 
-
-<!--
-**blixyk@pc:~$** cat to-do-list.txt
--->
