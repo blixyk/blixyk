@@ -66,11 +66,3 @@ Here are some ideas to get you started:
 <!--
 **blixyk@pc:~$** cat to-do-list.txt
 -->
-
-- Finish all Advent of Code puzzles from 2015 until 2024 [] Progress --> 3/225
-  - Side project: [MD5-hash_function](https://github.com/blixyk/MD5-hash_function)
-- Practice math at least one hour a day and ace in it on exams. []
-- Make my own basic interactive website using React and link it to GitHub []
-- Learn VIM and use it regularly []
- 
-These are things I choose to do in my what we call "free time".  
