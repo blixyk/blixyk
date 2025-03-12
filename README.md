@@ -6,10 +6,6 @@
 - 🇨🇿 Czech - Native language; 🇬🇧 English - I have FCE (B2) Cambridge Certificate
   - English -> Strong reading and listening skills, competent writing abilities, and speaking skills, depending on frequency of use.
 
-**blixyk@pc:~$** cat my-public-profiles.txt
-- [Dozby's YouTube Channel](https://www.youtube.com/@Dozby)
-- Discord: ent3i
-
 <details>
   <summary>Why do I use different nicknames?</summary>
 
